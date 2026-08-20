@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=rjubayer329-a11y&theme=dark)](https://leetcode.com/rjubayer329-a11y)-->
-
-[![LeetCode Stats](https://leetcard.workers.dev/rjubayer329-a11y?theme=nord&font=baloo)](https://leetcode.com/rjubayer329-a11y)
+-->
+<p align="center">
+  <img src="https://leetcard.workers.dev/rjubayer329-a11y?theme=nord&font=baloo" alt="LeetCode Stats" />
+</p>
