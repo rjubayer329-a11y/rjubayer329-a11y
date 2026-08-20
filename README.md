@@ -1,4 +1,4 @@
-## Hi there 👋
+## LeetCode Progress Bar 📈
 
 <!--
 **rjubayer329-a11y/rjubayer329-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
