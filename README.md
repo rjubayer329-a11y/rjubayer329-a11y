@@ -1,4 +1,4 @@
-## LeetCode Progress Bar 📈
+## LeetCode Progress📈
 
 <!--
 **rjubayer329-a11y/rjubayer329-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://leetcard.workers.dev/rjubayer329-a11y?theme=nord&font=baloo" alt="LeetCode Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-1%20Solved-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Python-1%20Problem-blue?style=for-the-badge&logo=python" />
 </p>
